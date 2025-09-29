@@ -23,6 +23,7 @@
 
 * Significant shift of pressure from heel to forefoot during dynamic tasks (p < 0.01).
 * Midfoot stability found to be critical under unstable conditions.
+* Comparison of Mean Peak Pressure between Stable & Unstable surfaces 
 
 ## Key Takeaways
 
