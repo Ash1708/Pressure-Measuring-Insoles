@@ -19,14 +19,24 @@
 * Post-hoc paired t-tests to identify specific zone/condition effects.
 * Tools: Python (pandas, numpy, scipy/statsmodels), matplotlib & seaborn for visualization.
 
-## Results & Insights
+## Results 
 
-* Significant shift of pressure from heel to forefoot during dynamic tasks (p < 0.01).
-* Midfoot stability found to be critical under unstable conditions.
+* Forefoot: No significant difference between stable and unstable surfaces (Wilcoxon, z = -1.274, p = 0.203) → similar loading across conditions.
+* Midfoot: Significant reduction on unstable surface (Paired t-test, t(9) = 5.902, p < 0.001, Cohen’s d = 3.86, huge effect)
+* Heel: Significant reduction on unstable surface (Paired t-test, t(9) = 8.201, p < 0.001, Cohen’s d = 7.98, huge effect)
+* Lateral foot: Significant reduction on unstable surface (Wilcoxon, z = -2.803, p = 0.005, Cohen’s d = 6.37, huge effect)
+* Medial foot: Significant reduction on unstable surface (Wilcoxon, z = -2.497, p = 0.013, Cohen’s d = 4.37, huge effect)
   
 ### Comparison of Mean Peak Pressure between Stable & Unstable surfaces
 
 ![Mean Peak Pressure](visuals/peakpressure.png)
+
+## Key Insights
+
+* Plantar pressure shifted dramatically from heel and midfoot → forefoot on unstable surfaces.
+* Large effect sizes confirm these are not trivial differences, but substantial biomechanical shifts.
+* Supports the view that unstable surfaces force greater forefoot loading, relevant for injury prevention, footwear design, and performance training.
+  
 
 
 ## Key Takeaways
